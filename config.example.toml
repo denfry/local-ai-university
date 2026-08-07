@@ -1,0 +1,26 @@
+# Copy to config.toml and adjust. Secrets belong in .env, not here.
+
+[ollama]
+base_url = "http://localhost:11434"
+model = "qwen2.5:7b"
+temperature = 0.2
+context_length = 8192
+
+[learning]
+max_iterations = 10
+target_domain = "Информатика и вычислительная техника"
+max_llm_calls_per_session = 100
+
+[web]
+enabled = true
+max_requests_per_session = 20
+max_source_size_bytes = 2_000_000
+allowed_domains = []   # empty = no allowlist restriction beyond blocked_domains
+blocked_domains = []
+
+[obsidian]
+vault_path = "./vault"
+
+[sandbox]
+backend = "subprocess"   # "subprocess" | "docker"
+execution_timeout_seconds = 10
