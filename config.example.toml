@@ -8,7 +8,7 @@ context_length = 8192
 
 [learning]
 max_iterations = 10
-target_domain = "Информатика и вычислительная техника"
+target_domain = "Computer Science and Computer Engineering"
 max_llm_calls_per_session = 100
 
 [web]

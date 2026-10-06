@@ -34,25 +34,24 @@ is expected to move backward as well as forward.
 
 ## Starting domains
 
-1. **Математическая база** — дискретная математика, математическая
-   логика, линейная алгебра, математический анализ, теория вероятностей,
-   комбинаторика.
-2. **Программирование** — Python, C, C++, структуры данных, алгоритмы,
-   рекурсия, complexity analysis, OOP, functional programming basics.
-3. **Архитектура вычислительных систем** — Boolean algebra, digital
+1. **Mathematical Foundations** — discrete mathematics, mathematical
+   logic, linear algebra, calculus, probability theory, combinatorics.
+2. **Programming** — Python, C, C++, data structures, algorithms,
+   recursion, complexity analysis, OOP, functional programming basics.
+3. **Computer Architecture** — Boolean algebra, digital
    logic, number representation, CPU, ISA, assembly, memory hierarchy,
    cache, virtual memory basics.
-4. **Операционные системы** — processes, threads, scheduling,
+4. **Operating Systems** — processes, threads, scheduling,
    synchronization, deadlocks, virtual memory, filesystems.
-5. **Компьютерные сети** — OSI/TCP-IP concepts, Ethernet, IP, TCP, UDP,
+5. **Computer Networks** — OSI/TCP-IP concepts, Ethernet, IP, TCP, UDP,
    DNS, HTTP, routing, sockets.
-6. **Базы данных** — relational model, SQL, indexes, transactions,
+6. **Databases** — relational model, SQL, indexes, transactions,
    normalization, query planning.
-7. **Теория вычислений** — automata, formal languages, computability,
+7. **Theory of Computation** — automata, formal languages, computability,
    complexity theory.
 8. **Software Engineering** — Git, testing, debugging, architecture,
    design principles, CI/CD.
-9. **Продвинутые темы** — distributed systems, compilers, cybersecurity
+9. **Advanced Topics** — distributed systems, compilers, cybersecurity
    fundamentals, machine learning fundamentals, parallel computing, GPU
    computing.
 

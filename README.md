@@ -26,8 +26,8 @@ Every module's `__init__.py` documents exactly what it's responsible for
 Local AI University is designed to run a local Ollama model as an agent
 that:
 
-- builds and extends a curriculum knowledge graph for **Информатика и
-  вычислительная техника** (Computer Science & Computer Engineering);
+- builds and extends a curriculum knowledge graph for **Computer Science and
+  Computer Engineering**;
 - picks the next topic to study based on weak prerequisites, not a fixed
   syllabus order;
 - finds and ranks trustworthy sources on the open web;
@@ -129,10 +129,9 @@ Until the CLI is implemented, `aiu doctor`/`aiu learn`/etc. will not run
 
 ## Curriculum
 
-Seeded top-level domains: Математическая база, Программирование,
-Архитектура вычислительных систем, Операционные системы, Компьютерные
-сети, Базы данных, Теория вычислений, Software Engineering, Продвинутые
-темы. Full breakdown in [docs/curriculum.md](docs/curriculum.md).
+Seeded top-level domains: Mathematical Foundations, Programming,
+Computer Architecture, Operating Systems, Computer Networks, Databases,
+Theory of Computation, Software Engineering, Advanced Topics. Full breakdown in [docs/curriculum.md](docs/curriculum.md).
 
 ## How mastery works
 
